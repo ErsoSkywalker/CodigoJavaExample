@@ -1,7 +1,7 @@
 
 package ejemploparaserundiosprogramando;
 
-public class EjemploParaSerUnDiosProgramando {
+public class EjemploParaSerUnDiosProgramando{
 
     public static void main(String[] args) {
         
@@ -63,6 +63,13 @@ public class EjemploParaSerUnDiosProgramando {
         */
         
         
+        //Carro cochesito = new Carro("Negro", 6);
+        //cochesito.setNumeroPuertas(10);
+        
+        Lambo lb = new Lambo("Gris",2,true);
+        
+        System.out.println(lb.getColor());
+       
         
     }
     
